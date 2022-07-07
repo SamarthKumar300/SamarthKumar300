@@ -2,7 +2,7 @@
 - 👀 I have been working as a Graphic Designer and UI Designer
 - 🌱 I’m currently learning to code programs in C++
 - 📫 You can say hi to me at my G-mail { samarth2002kumar@gmail.com };
-- 👀 I have been working as a Designer too and it will be my pleasure if you can review my portfolio : https://samarthkumar300.github.io/Samarth_Kr.github.io/
+- 👀 I have been working as a Designer too and it will be my pleasure if you can review my portfolio : https://samarthdesign.netlify.app/
  
 
 <!---
