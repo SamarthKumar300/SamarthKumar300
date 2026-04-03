@@ -52,10 +52,6 @@ A simulation tool showing Indian users the real cost of EMIs vs. investing inste
 <div align="center">
 
 <a href="https://github.com/SamarthKumar300">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamarthKumar300&show_icons=true&theme=dark&hide_border=true&title_color=c6ff4b&icon_color=c6ff4b&count_private=true&cache_seconds=1800"/>
-</a>
-
-<a href="https://github.com/SamarthKumar300">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=SamarthKumar300&theme=dark&hide_border=true&ring=c6ff4b&fire=c6ff4b&currStreakLabel=c6ff4b"/>
 </a>
 
